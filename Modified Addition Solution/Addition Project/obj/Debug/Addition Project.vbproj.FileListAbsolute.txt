@@ -1,0 +1,20 @@
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\bin\Debug\Addition Project.exe.config
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\bin\Debug\Addition Project.exe
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\bin\Debug\Addition Project.pdb
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\bin\Debug\Addition Project.xml
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition Project.exe
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition Project.xml
+D:\College\Visual Basic\VB2015\Chap06\Addition Solution\Addition Project\obj\Debug\Addition Project.pdb
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\bin\Debug\Addition Project.exe.config
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition Project.exe
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition Project.xml
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition Project.pdb
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\bin\Debug\Addition Project.exe
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\bin\Debug\Addition Project.pdb
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\bin\Debug\Addition Project.xml
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition_Project.frmMain.resources
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition_Project.Resources.resources
+D:\College\Visual Basic\Visual-Basic-Week-7\Modified Addition Solution\Addition Project\obj\Debug\Addition Project.vbproj.GenerateResource.Cache

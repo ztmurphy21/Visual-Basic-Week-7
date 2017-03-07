@@ -9,3 +9,7 @@ D:\College\Visual Basic\VB2015\Chap06\Sales Solution\Sales Project\obj\Debug\Sal
 D:\College\Visual Basic\VB2015\Chap06\Sales Solution\Sales Project\obj\Debug\Sales Project.exe
 D:\College\Visual Basic\VB2015\Chap06\Sales Solution\Sales Project\obj\Debug\Sales Project.xml
 D:\College\Visual Basic\VB2015\Chap06\Sales Solution\Sales Project\obj\Debug\Sales Project.pdb
+D:\College\Visual Basic\Visual-Basic-Week-7\Sales Solution\Sales Project\bin\Debug\Sales Project.exe.config
+D:\College\Visual Basic\Visual-Basic-Week-7\Sales Solution\Sales Project\obj\Debug\Sales Project.exe
+D:\College\Visual Basic\Visual-Basic-Week-7\Sales Solution\Sales Project\obj\Debug\Sales Project.xml
+D:\College\Visual Basic\Visual-Basic-Week-7\Sales Solution\Sales Project\obj\Debug\Sales Project.pdb

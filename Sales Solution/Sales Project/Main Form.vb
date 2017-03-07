@@ -1,6 +1,6 @@
 ﻿' Name:         Sales Project
 ' Purpose:      Display the projected sales
-' Programmer:   <your name> on <current date>
+' Programmer:   Zachary Murphy on 3-6-2017
 
 Option Explicit On
 Option Strict On

@@ -1,0 +1,11 @@
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\bin\Debug\Sales Project.exe.config
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\bin\Debug\Sales Project.exe
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\bin\Debug\Sales Project.pdb
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\bin\Debug\Sales Project.xml
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales Project.vbprojResolveAssemblyReference.cache
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales_Project.frmMain.resources
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales_Project.Resources.resources
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales Project.vbproj.GenerateResource.Cache
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales Project.exe
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales Project.xml
+D:\College\Visual Basic\VB2015\Chap06\Sales Solution-For Next\Sales Project\obj\Debug\Sales Project.pdb

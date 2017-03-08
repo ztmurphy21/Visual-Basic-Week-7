@@ -1,0 +1,11 @@
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe.config
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.exe
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.pdb
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\bin\Debug\Payment Project.xml
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.exe
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.xml
+E:\College\Visual Basic\VB2015\Chap06\Payment Solution\Payment Project\obj\Debug\Payment Project.pdb

@@ -1,0 +1,11 @@
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\bin\Debug\Zip Project.exe.config
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\bin\Debug\Zip Project.exe
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\bin\Debug\Zip Project.pdb
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\bin\Debug\Zip Project.xml
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip_Project.Form1.resources
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip_Project.Resources.resources
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip Project.exe
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip Project.xml
+E:\College\Visual Basic\Visual-Basic-Week-7\Zip Project\Zip Project\obj\Debug\Zip Project.pdb

@@ -1,0 +1,11 @@
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\bin\Debug\Electric Project.exe.config
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\bin\Debug\Electric Project.exe
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\bin\Debug\Electric Project.pdb
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\bin\Debug\Electric Project.xml
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric Project.vbprojResolveAssemblyReference.cache
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric_Project.frmMain.resources
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric_Project.Resources.resources
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric Project.vbproj.GenerateResource.Cache
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric Project.exe
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric Project.xml
+E:\College\Visual Basic\VB2015\Chap06\Electric Solution\Electric Project\obj\Debug\Electric Project.pdb
